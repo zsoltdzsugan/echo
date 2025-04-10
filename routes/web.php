@@ -15,7 +15,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
 });
 
 Route::middleware('auth')->group(function () {
-    Route::resource('games', GameController::class)->only(['store', 'show']);
+    Route::resource('games', GameController::class)->only(['index', 'store', 'show']);
 });
 
 require __DIR__.'/settings.php';
