@@ -219,7 +219,7 @@ Project Link: [https://github.com/zsoltdzsugan/echo.git](https://github.com/zsol
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: public/assets/home_page_l.png
 [product-screenshot-1]: public/assets/admin_panel.png
-[react.com]: https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=react&logoColor=white
+[react.com]: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
 [react-url]: https://react.dev
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
