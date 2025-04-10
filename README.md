@@ -84,7 +84,7 @@ This project is currently in development.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Laravel][Laravel.com]][Laravel-url]
-* [![React][react.com]][react-url]
+* [![React][React.com]][React-url]
 * [![TailwindCSS][tailwind.com]][tailwind-url]
 * [![SQLite][sqlite.com]][sqlite-url]
 
@@ -219,8 +219,8 @@ Project Link: [https://github.com/zsoltdzsugan/echo.git](https://github.com/zsol
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: public/assets/home_page_l.png
 [product-screenshot-1]: public/assets/admin_panel.png
-[react.com]: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
-[react-url]: https://react.dev
+[React.com]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[React-url]: https://react.dev
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
 [tailwind.com]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
